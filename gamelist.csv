@@ -1,0 +1,10 @@
+,gameId,Name,Price,Genres,Rating,hasDLC,inAppPurchases,Release Date
+0,1903340,Clair Obscur: Expedition 33,"49,99€","['Action', 'RPG']",Very Positive,True,False,2025-04-24
+1,730,Counter-Strike 2,Free To Play,['Action'],Very Positive,True,True,2012-08-21
+2,3017860,DOOM: The Dark Ages,"79,99€",['Action'],Very Positive,False,False,2025-05-14
+3,3241660,R.E.P.O.,"9,75€","['Action', 'Early Access']",Overwhelmingly Positive,False,False,2025-02-26
+4,1172470,Apex Legends™,Free To Play,"['Action', 'Adventure']",Mixed,False,True,2020-11-04
+5,2625420,Drive Beyond Horizons,"24,50€","['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'Simulation', 'Early Access']",Very Positive,False,False,2025-03-24
+6,2488370,Cash Cleaner Simulator,"14,79€","['Casual', 'Indie', 'Simulation']",Very Positive,True,False,2025-05-08
+7,2669320,EA SPORTS FC™ 25,"69,99€","['Simulation', 'Sports']",Mixed,True,True,2024-09-26
+8,3164500,Schedule I,"19,50€","['Action', 'Indie', 'Simulation', 'Strategy', 'Early Access']",Overwhelmingly Positive,False,False,2025-03-24
